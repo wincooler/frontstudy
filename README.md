@@ -5,7 +5,7 @@
 
 技能
 - JavaScript+CSS+HTML 
-- Vue, [Vue官网](https://github.com/vuejs/vue)
+- Vue
 - React
 
 
@@ -33,6 +33,8 @@
   - markdown
 
 学习途径
+-  [Vue官网](https://cn.vuejs.org/)
+-  [Vue Github](https://github.com/vuejs/vue)
 - 知乎 https://zhuanlan.zhihu.com/p/339835359
 - csdn
 - 极客时间 https://time.geekbang.org/dashboard/course
