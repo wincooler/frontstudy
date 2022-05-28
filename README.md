@@ -38,8 +38,6 @@
 - 知乎 https://zhuanlan.zhihu.com/p/339835359
 - csdn
 - 极客时间 https://time.geekbang.org/dashboard/course
-  15178893156
-  !qaz2wsx
 - https://www.liaoxuefeng.com/
 - B站
 
